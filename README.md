@@ -36,18 +36,6 @@ A utility program for testing signal handling. It intercepts and reports SIGINT,
 * **Signal Handling:** Implementing custom signal handlers to manage process states.
 * **File Descriptor Management:** Manipulating standard input, output, and error streams for redirection and piping.
 
-## How to Build and Run
-
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-2. Compile the project:
-   The provided Makefile compiles both myshell and mypipeline.
-   make
-
-3. Run the shell:
-   ./myshell
 
 ## Requirements
 * Linux/Unix environment.
